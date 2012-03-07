@@ -1,0 +1,46 @@
+.comments * {display:none; }
+
+.form_pack * {display:none; }
+
+h2 {
+	text-align: center;
+	text-shadow: #6374AB 1px -1px 1px;
+}
+
+.checks {
+	position:relative;
+}
+
+a {left:40px;
+position:relative;}
+
+.comments {
+	left: 50px;
+	position:relative;
+}
+.titles {
+		left:40px;
+		position:relative;
+		font-weight: bold;
+		font-style: italic;
+}
+
+.styled {
+	left:40px;
+	position:relative;
+}
+
+.checkbox {
+	width: 20px;
+	background-color: black;
+}
+
+.authors{
+	left:40px;
+	position:relative;
+}
+img {
+	left:35px;
+	position:relative;
+	float: left;
+}
